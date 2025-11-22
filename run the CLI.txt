@@ -1,1 +1,0 @@
-python main.py --topic "How to start with edge ML" --audience "data engineers" --tone "friendly" --length 1200
