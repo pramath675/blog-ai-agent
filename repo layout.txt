@@ -1,0 +1,10 @@
+blog-writer-agent/
+├─ .gitignore
+├─ README.md
+├─ requirements.txt
+├─ .env.example
+├─ config.py
+├─ prompts.py
+├─ agent.py
+├─ utils.py
+└─ main.py
